@@ -1,0 +1,5 @@
+**/.ipynb_checkpoints/
+**/data-preprocessed
+**/training
+**/*.zip
+**/*.keras
