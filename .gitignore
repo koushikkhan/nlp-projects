@@ -3,3 +3,4 @@
 **/training
 **/*.zip
 **/*.keras
+**/.DS_Store
